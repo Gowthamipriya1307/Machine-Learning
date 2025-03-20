@@ -80,10 +80,10 @@ cd Exploratory-Data-Analysis
 Run the Jupyter Notebook:
 jupyter notebook Machine_Learning_Capstone_Project.ipynb
 
-## 🚀 Future Improvements:
-✅ Explore other tree-based models like Random Forest or Gradient Boosting for better performance.
-✅ Investigate feature engineering techniques to handle high-cardinality categorical variables like ad.
-✅ Perform cross-validation to ensure model robustness.
+## 🚀 Future Improvements
+- ✅ **Explore other tree-based models** like **Random Forest** or **Gradient Boosting** for better performance.  
+- ✅ **Investigate feature engineering techniques** to handle **high-cardinality categorical variables** like `ad`.  
+- ✅ **Perform cross-validation** to ensure model robustness.  
 
 
 
