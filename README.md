@@ -73,11 +73,14 @@ Since actual test dataset values are not provided, the training dataset was **sp
 ### **Install Dependencies:**
 pip install pandas numpy scikit-learn seaborn matplotlib
 
-## 🔧 **Usage** 
-Clone the repository:
-git clone https://github.com/Gowthamipriya1307/Exploratory-Data-Analysis.git
-cd Exploratory-Data-Analysis
-Run the Jupyter Notebook:
+## 🔧 Usage
+
+- 📥 **Clone the repository:**
+  ```bash
+  git clone https://github.com/Gowthamipriya1307/Exploratory-Data-Analysis.git
+  cd Exploratory-Data-Analysis
+
+▶ Run the Jupyter Notebook:
 jupyter notebook Machine_Learning_Capstone_Project.ipynb
 
 ## 🚀 Future Improvements
